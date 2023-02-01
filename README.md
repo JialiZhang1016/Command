@@ -6,7 +6,7 @@ Here is the summary of the common command.
 
 [git](./git.md)
 
-[python](./install python3.47.12.md)
+[python](./'install python3.47.12'.md)
 
 [Markdown]((./Markdown.md))
 
