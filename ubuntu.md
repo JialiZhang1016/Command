@@ -1,3 +1,7 @@
+## # Link
+
+[https://ubuntu.com/tutorials/command-line-for-beginners#1-overview](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+
 ## 1、文件/文件夹管理
 
 * `ls` 列出当前目录下的所有文件（不显示隐藏文件）
@@ -14,7 +18,6 @@
 * `mv file1 dir1` 将文件1移动到目录1中
 * `find 路径 -name “字符串”` 查找路径所在范围内满足字符串匹配的文件和目录
 
-
 ## 2、程序安装与卸载
 
 * `apt-get` 程序安装与卸载命令的标志，需要管理员权限
@@ -22,7 +25,6 @@
 * `remove` 卸载指定的程序，一般最好加上“--purge”执行清除
 
   式卸载；并在程序名称后添加*号。举例：`sudo apt-get remove --purge nvidia*`  卸载 nvidia 的驱动及其配置文件
-
 * `update` 更新本地软件源文件，需要管理员权限，举例：`sudo apt-get update`
 
 ## 3、打包/解压
