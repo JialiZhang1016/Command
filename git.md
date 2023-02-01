@@ -33,3 +33,6 @@ git stutas
 ```
 git add
 ```
+
+
+Git commit always ask me for username and password. The solution is to change the http to ssh. [https://zhuanlan.zhihu.com/p/358721423](https://zhuanlan.zhihu.com/p/358721423)
